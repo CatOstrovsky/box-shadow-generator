@@ -1,18 +1,27 @@
 {
   "name": "shadowgenerator",
-  "version": "0.0.0",
+  "version": "1.0",
   "private": true,
+  "main": "index.js",
   "scripts": {
-    "start": "node ./bin/www"
+    "start": "webpack",
+    "dev": "webpack-dev-server"
   },
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "cookie-parser": "^1.4.3",
-    "debug": "^2.6.9",
-    "ejs": "^2.5.7",
-    "express": "^4.15.5",
-    "hjs": "0.0.6",
-    "morgan": "^1.9.0",
-    "serve-favicon": "^2.4.5"
+    "babel-loader": "7",
+    "babel-preset-es2015": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "ify-loader": "^1.1.0",
+    "node-sass": "^4.9.3",
+    "sass-loader": "^7.1.0",
+    "style-loader": "^0.23.0",
+    "vue-color": "^2.6.0",
+    "webpack": "^4.18.0",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "webpack-cli": "^3.1.0"
   }
 }

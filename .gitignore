@@ -4,8 +4,10 @@ logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+yarn.lock
 
 # Runtime data
+/dist
 pids
 *.pid
 *.seed
@@ -59,3 +61,5 @@ typings/
 
 # next.js build output
 .next
+
+.DS_Store

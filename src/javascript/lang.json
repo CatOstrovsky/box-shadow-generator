@@ -1,0 +1,36 @@
+{
+	"current": "usa",
+	"usa": {
+		"inset": "Inset",
+		"horizontal": "Horizontal Length",
+		"vertical": "Vertical Length",
+		"blur": "Blur Radius",
+		"spread": "Spread Radius",
+		"shadow_color": "Shadow Color",
+		"box_color": "Box Color",
+		"copy": "Copy code",
+		"copied": "Copied to clipboard!"
+	},
+	"ru": {
+		"inset": "Внутренняя тень",
+		"horizontal": "Отступ слева",
+		"vertical": "Отступ сверху",
+		"blur": "Радиус тени",
+		"spread": "Радиус разброса",
+		"shadow_color": "Цвет тени",
+		"box_color": "Фон блока",
+		"copy": "Скопировать код",
+		"copied": "Скопировано в буфер обмена!"
+	},
+	"cn": {
+		"inset": "插頁",
+		"horizontal": "水平長度",
+		"vertical": "垂直長度",
+		"blur": "模糊半徑",
+		"spread": "擴展半徑",
+		"shadow_color": "陰影顏色",
+		"box_color": "箱子顏色",
+		"copy": "複製代碼",
+		"copied": "複製到剪貼板!"
+	}
+}
