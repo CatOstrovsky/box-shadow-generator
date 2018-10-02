@@ -35,6 +35,14 @@ var RangeSlider = {
 		  			event.preventDefault();
 		  			this.updateRange(event);
 		  		},
+          'touchmove': (event) => {
+            this.isactive = 1;
+            for(let touch of event.originalEvent.changedTouches)
+              this.updateRange(touch);
+          },
+          'touchcancel': (event) => {
+            this.isactive = 0;
+          },
 		  		'mouseup': (event) => {
 		  			this.isactive = 0;
 		  		}
