@@ -3,6 +3,8 @@ CSS box shadow generator. Based on vueJS. [!!!DEMO HERE!!!](https://demo.web-pan
 
 ![Game Screenshot](https://demo.web-panda.ru/screenshots/shadow.JPG)
 
+![QR](https://demo.web-panda.ru/qr/box-shadowx200.png)
+
 ### Run developer mode
 ```
 yarn dev
