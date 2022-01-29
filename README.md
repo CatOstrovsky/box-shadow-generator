@@ -1,9 +1,9 @@
 # box-shadow-generator
-CSS box shadow generator. Based on vueJS. [!!!DEMO HERE!!!](https://demo.web-panda.ru/box-shadow-generator/)
+CSS box shadow generator. Based on vueJS. [!!!DEMO HERE!!!](http://catostrovsky.ru/demo/box-shadow-generator/)
 
-![Game Screenshot](https://demo.web-panda.ru/screenshots/shadow.JPG)
+![box-shadowx200](https://user-images.githubusercontent.com/13501355/151675435-f60e4490-3e6a-4886-8a75-9b0583e9978c.png)
 
-![QR](https://demo.web-panda.ru/qr/box-shadowx200.png)
+![shadow](https://user-images.githubusercontent.com/13501355/151675461-69747297-2096-445b-b618-ce5c681f1159.JPG)
 
 ### Run developer mode
 ```
